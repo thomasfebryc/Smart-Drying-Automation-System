@@ -1,0 +1,9 @@
+# PlatformIO build artifacts
+.pio/
+
+# VSCode configuration and workspace files
+.vscode/
+*.code-workspace
+
+# Sensitive credentials
+include/secrets.h
